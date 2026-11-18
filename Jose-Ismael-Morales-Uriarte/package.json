@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^8.3.6"
+  },
+  "dependencies": {
+    "@creit-tech/stellar-wallets-kit": "npm:@jsr/creit-tech__stellar-wallets-kit@^2.8.0"
   }
 }
